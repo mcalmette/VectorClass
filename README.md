@@ -1,7 +1,7 @@
 # VectorClass
 
 
-# Class Setup
+## Class Setup
 ```
 cmake CMakeLists.txt
 make
