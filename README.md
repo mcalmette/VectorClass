@@ -17,7 +17,7 @@ To use the performance test:
 ```
 
 ## About this project
-The vector is an abstract data type of an ordered list of items. The vector class uses a key-value template with the typename definition. The vector class implements these functions:
+The vector is an abstract data type of an ordered list of items which automatically resizes itself. The vector class uses a key-value template with the typename definition. The vector class implements these functions:
 - add
 - remove
 - find
