@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -g -DNDEBUG  -rdynamic CMakeFiles/vectorperf.dir/vector_perf.cpp.o  -o vectorperf 

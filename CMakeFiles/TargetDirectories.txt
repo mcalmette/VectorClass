@@ -1,0 +1,4 @@
+/home/student/Desktop/VectorClass/CMakeFiles/rebuild_cache.dir
+/home/student/Desktop/VectorClass/CMakeFiles/edit_cache.dir
+/home/student/Desktop/VectorClass/CMakeFiles/vectortest.dir
+/home/student/Desktop/VectorClass/CMakeFiles/vectorperf.dir

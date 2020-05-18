@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student/Desktop/VectorClass/collection.h
+vector
+-
+
+/home/student/Desktop/VectorClass/test_driver.h
+string
+-
+iostream
+-
+fstream
+-
+chrono
+-
+collection.h
+/home/student/Desktop/VectorClass/collection.h
+
+/home/student/Desktop/VectorClass/vector_collection.h
+vector
+-
+algorithm
+-
+collection.h
+/home/student/Desktop/VectorClass/collection.h
+
+/home/student/Desktop/VectorClass/vector_perf.cpp
+iostream
+-
+vector_collection.h
+/home/student/Desktop/VectorClass/vector_collection.h
+test_driver.h
+/home/student/Desktop/VectorClass/test_driver.h
+

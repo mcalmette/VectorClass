@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -g -DNDEBUG  -rdynamic CMakeFiles/vectortest.dir/vector_test.cpp.o  -o vectortest -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 
