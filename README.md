@@ -1,4 +1,4 @@
-###### VectorClass
+# VectorClass
 
 
 ## Class Setup
