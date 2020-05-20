@@ -2,6 +2,7 @@
 // Author: Michael Calmette
 // File:   vector_collection.h
 //
+//
 // Description:  A collection object associated with a key and an 
 // associated value.  All pairs have to be of the same data type.  The
 // vector collection class implements the abstract collection class
